@@ -34,3 +34,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# pnpm
+pnpm-lock.yaml
+
+# gatsby
+/bin/
+/db/
+
+# vscode
+.vscode/
+.idea/
+
+# node
+*.exe
+*.out
+*.log
